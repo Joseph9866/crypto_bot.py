@@ -15,4 +15,4 @@
 1. **Prerequisites**: Python 3.8+  
    ```bash
    git clone https://github.com/Joseph9866/crypto_bot.py.git
-   cd crypto-advisor-bot
+   cd crypto-bot
